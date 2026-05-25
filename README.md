@@ -60,8 +60,8 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Mithun Kumar G
+### Register Number: 212224230160
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
